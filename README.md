@@ -17,7 +17,7 @@ My Projects in MS Excel, MySQL, Power BI and Tableau.
 
 - ✅ **HR Employee Analysis (MS Excel)**
 
-  Employee Analysis is a detailed HR report of Emerald Global Ventures **(The company name was chosen randomly with a logo created to make it look authentic)**. It was done through careful data collecting, cleaning, processing, analysing and visualizing processes. This project provides an insight from the records of both employees in service and out of service in the mentioned company with an interactive dashboard for a detailed summary.
+  HR Employee Analysis is a detailed HR report of Emerald Global Ventures **(The company name was chosen randomly with a logo created to make it look authentic)**. It was done through careful data collecting, cleaning, processing, analysing and visualizing processes. This project provides an insight from the records of both employees in service and out of service in the mentioned company with an interactive dashboard for a detailed summary.
 
 - ✅ **Multilingual Mobile App Reviews (MS Excel)**
 
