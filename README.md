@@ -13,33 +13,61 @@ My Projects in MS Excel, MySQL, Power BI and Tableau.
 
 -✅ **MySQL Database Scripts** - These contain different column records and values of different databases.
 
+-✅ **Skills Deployed** - Excel Basic and Advanced Functions, Data Cleaning, Data Processing, Conditional Formatting, Pivot Tables and Charts, Data Analysis, Data Visualization, DAX, Power Query, Database                              Creation and Insertion of Records with SQL.
+
 ## 📌 Brief Description of Individual Projects
 
 - ✅ **HR Employee Analysis (MS Excel)**
 
-  HR Employee Analysis is a detailed HR report of Emerald Global Ventures **(The company name was chosen randomly with a logo created to make it look authentic)**. It was done through careful data collecting, cleaning, processing, analysing and visualizing processes. This project provides an insight from the records of both employees in service and out of service in the mentioned company with an interactive dashboard for a detailed summary.
+ HR Employee Analysis is a detailed report of Emerald Global Ventures **(The company name was chosen randomly with a logo created to make it look authentic)**. It was done through careful data collection,      data cleaning, data processing, data analysis and data visualization processes. This project provides an insight from the records of both employees in service and out of service in the mentioned company with  an interactive dashboard for a detailed summary.
 
 - ✅ **Multilingual Mobile App Reviews (MS Excel)**
 
-  Multilingual Mobile App Reviews was built from a data set with over 14 columns including the records of different Mobile applications. It provides insights to uncover the usage of these applications by both male and female gender across different age groups. It includes an interactive dashboard that provides a detailed summary of the analysis.
+ Multilingual Mobile App Reviews was built from a data set with over 14 columns including the records of different Mobile applications. It provides insights to uncover the usage of these applications by both   male and female gender across different age groups and other insights. It includes an interactive dashboard that provides a detailed summary of the analysis.
 
 - ✅ **Pizza Sales Report (Power BI)**
 
-  Pizza Sales Report is one of my latest projects in Power BI which was built using a pizza sales dataset. Well transformed on the power query editor using the DAX function, it provides end users with all possible insights they would want to be uncovered. It is highly interactive with navigation buttons to surf back and forth pages.
+ The Pizza Sales Report is an interactive Power BI dashboard designed to analyse pizza sales performance and provide actionable business insights. The report transforms raw sales data into meaningful           visualizations, enabling stakeholders to monitor revenue, order trends, customer purchasing behaviour, and product performance. By leveraging Power BI's data modelling and visualization capabilities, the      dashboard supports data-driven decision-making for improving sales and operational efficiency.
 
 - ✅ **Project on Tableau (Tableau)**
 
-  Project on Tableau was done with a sales data of products categorized into furniture, technology and office supplies collected in the United States of America. It has key performance indicators like amount on total sales, amount on total profit and total quantity of products sold across different states in the USA and product categories. With a carefully built dashboard, end users can dynamically relate and connect insights through different visualizations.
+  Project on Tableau was done with a sales data of products categorized into furniture, technology and office supplies collected in the United States of America. It has key performance indicators like amount    on total sales, amount on total profit and total quantity of products sold across different states in the USA and product categories. With a carefully built dashboard, end users can dynamically relate and     connect insights through different visualizations.
 
-- ✅ **Emerald Ventures Backup (SQL)**
+- ✅ **Emerald Ventures (SQL)**
  
-    Emerald Ventures Backup is a MySQL project that has records of employees **(with formulated names)** in a database called emerald_ventures. It has 6 tables with 5 tables connected to one through a foreign key which helps in querying all records in all tables using the **CROSS-JOIN syntax**.
+  Emerald Ventures is a MySQL project that has records of employees **(with formulated names)** in a database called emerald_ventures. It has 6 tables with 5 tables connected to one through a foreign     key    constraint which helps in querying all records in all tables using the **CROSS-JOIN Clause**.
 
 - ✅ **Student Grading System (SQL)**
 
-  Student Grading System is a SQL project that has records of students **(with formulated names)** in a database called student_grading_system. It contains the student table, department table, lecturers table, subject table, etc with established relationships.
+  Student Grading System is a SQL project that has records of students **(with formulated names)** in a database called student_grading_system. It contains the student table, department table, lecturers         table, subject table, etc with established relationships.
 
+- ✅ **Netflix Report (Power BI)**
 
+  An interactive Power BI dashboard analysing Netflix contents added between the years 2018 – 2021 through dynamic visualizations and data-driven insights.
+
+- ✅ **AI Global Workforce Displacement Report (Power BI)**
+
+  This project analyses the trend of workforce displacement by the impact of Artificial Intelligence across industries, regions and job category globally.
+
+- ✅ **India Airlines Flight Report (Power BI)**
+  
+  The India Airlines Flight Report is an interactive Power BI dashboard designed to analyze airline operations and flight performance across India. The project provides insights into metrics like total          revenue generated by flight destination, total passengers by each departure time and total passengers by each arrival time, etc with a slicer for an interactive dashboard.
+
+- ✅ **Global Mental Health Survey Report (Power BI)**
+
+  The Global Mental Health Survey Report is an interactive Power BI dashboard designed to analyse and visualize mental health trends across different regions of the world. The project focuses on identifying     patterns in mental well-being and prevalence of mental health conditions influencing global mental health outcomes.
+
+- ✅ **Student Mental Health Burnout (MS Excel)**
+
+  Student Mental Health Burnout Analysis is an Excel-based data analytics project that explores the factors contributing to mental health challenges and burnout among students. The project analyses survey       data to identify patterns related to academic pressure, study habits, sleep quality, stress levels, social support, and overall well-being. Through data cleaning, transformation, and visualization, the        project provides actionable insights that can help educators, institutions, and policymakers better understand and address student burnout.
+
+- ✅ **Superstore Sales (MS Excel)**
+
+  This Excel-based Sales and Profit Analysis project provides a comprehensive evaluation of business performance by analysing sales revenue, profit margins, customer behaviour, and product performance. Using    advanced Excel features such as Pivot Tables, Charts, Conditional Formatting and Interactive Dashboards, the project transforms raw sales data into actionable insights that support strategic decision-making.
+
+- ✅ **Synthetic Natural Disaster Analysis (MS Excel)**
+
+  This Excel project analyses a synthetic natural disaster dataset containing information on natural disasters such as floods, earthquakes, hurricanes, wildfires, and droughts across different regions and       time periods. The analysis focuses on identifying patterns, trends, and the impact of disasters on populations and the corresponding economic losses. Advanced Excel features such as Pivot Tables, Charts,      and Dashboards were used to transform raw data into actionable insights.
 
 
 
